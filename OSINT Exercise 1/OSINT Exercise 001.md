@@ -32,7 +32,7 @@ So, to proceed, let's explore the city in Google Earth.
 **Part 3: Investigation on Google Earth** </br>
 On Google Earth, after zooming into Kiffa, we can modify the layers like how we did with Google Maps. 
 
-As the photo shows a road, that's paved, and tarred, let's investigate the major roads heading out the city from above. And also, from Part 1, we know that there's a part of the road with greenery on both sides. 
+As the photo shows a road, that's paved, and tarred, let's investigate the major roads heading out of the city from above. And also, from Part 1, we know that there's a part of the road with greenery on both sides. 
 
 ![image](ans_pics/osint_001_pic2.png)
 
@@ -42,7 +42,7 @@ From the photo, on the right-hand side of the road, there is a building, and som
 
 On the left-hand side of the road, a building, and some electrical cable poles. But these things are not very clearly visible in satellite photos. They could be blurry.
 
-![image](ans_pics/osint_001_pic3.png)
+![image](ans_pics/osint_001_pic3.png) </br>
 Shortlisted road from which photo could've been taken
 
 
