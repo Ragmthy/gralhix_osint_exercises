@@ -29,27 +29,27 @@ After looking for the string "2023" in the index, there came a potential datetim
 ![image](ans_pics/inspect_page_2023.png)
 
 Given that timestamp, chances are it was uploaded at 16:48:43 local time in Tirana, on Feb 16th, 2023. 
-Therefore, for recording the video, and perhaps pushing it up immediately after: perhaps 16:45-16:46 local time. 
+Therefore, for recording the video, and pushing it up immediately after: perhaps 16:45-16:46 local time. 
 
-The displayed date is showcased as 17th Feb 2023 in here because of being located at a timezone ahead of Tirana.
+The displayed date is showcased as 17th Feb 2023 here because of being located in a timezone ahead of Tirana.
 
 **Part 3: Coordinates of where the video was recorded** </br>
-So, a few more hints to consider: it was taken at sunset, it was roughly at the local time of 16:48. Using these hints, we can try to manipulate the layers in Google Maps, and see what shakes. 
+So, a few more hints to consider: it was taken at sunset, roughly at the local time of 16:48. Using these hints, we can try to manipulate the layers in Google Maps, and see what shakes. 
 
-Another clue to take note of is that the photographer walking towards a flashing green sign - a potential pharmacy. And there was a tall red building to his right side. Also, he's walking towards the sunset, so some west direction is there as well. 
+Another clue to note is that the photographer is walking towards a flashing green sign - a potential pharmacy. And there was a tall red building to his right side. Also, he's walking towards the sunset, so some west direction is there as well. 
 
 With these clues, let's look into Tirana on Google Maps. 
 
 ![image](ans_pics/with%20traffic%20layer.png)
 
-For this view of Tirana, I chose to add in pharmacies in the area, a typical traffic situation at 4.45pm in the local time, and look for a street that extends out towards the West. 
+For this view of Tirana, I chose to add pharmacies in the area, a typical traffic situation at 4.45pm local time, and look for a street that extends out towards the West. 
 
 With those features, it narrowed the street down to this one: </br>
 ![image](ans_pics/highlighted_street.png)
 
 Seeing the traffic on either side of the video, given the car density, the red portion of the street is a good place to start "walking down" from. To that area, let's try a man drop.
 
-**Part 4: Mandrop into Street**
+**Part 4: Mandrop into Street** </br>
 After mandropping into the street, it shows us that it's at Kavaja Street. There is a pedestrian divider as shown in the video. Walking towards the direction of the sunset, I'd almost missed the area the red building would've been at, because the date time went back. After choosing to update the date on Google Maps, it could be confirmed that the area matches the video. 
 
 ![image](ans_pics/red_building.png)
