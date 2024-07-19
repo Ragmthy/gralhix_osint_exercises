@@ -44,7 +44,7 @@ With these clues, let's look into Tirana on Google Maps.
 
 For this view of Tirana, I chose to add in pharmacies in the area, a typical traffic situation at 4.45pm in the local time, and look for a street that extends out towards the West. 
 
-With those features, it narrowed the street down to this one:
+With those features, it narrowed the street down to this one: </br>
 ![image](ans_pics/highlighted_street.png)
 
 Seeing the traffic on either side of the video, given the car density, the red portion of the street is a good place to start "walking down" from. To that area, let's try a man drop.
