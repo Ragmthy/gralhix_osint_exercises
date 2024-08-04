@@ -42,14 +42,14 @@ Therefore, that's the first part solved: the website is [FIRMS](https://firms.mo
 **Part 3: Trying to identify the country** </br>
 With the timeline button, there's a possibility to see fires that happened in January. However, it is worth considering that the photograph showed one coastline area, at one time, in one day of January. </br>
 
-But one good thing, in the FIRMS UX, is that, it is not possible to rotate the map. At best, one can zoom in and zoom out. Therefore, a good chance that the zoomed in picture, at 10km-10 miles, is of a coastal place with the sea in the North-Western-ly direction. (Unless, there is a way to rotate the view, and I hadn't found it). One nice thing the two small snowspots also. </br>
+But one good thing, in the FIRMS UX, is that, it is not possible to rotate the map. At best, one can zoom in and zoom out. Therefore, a good chance that the zoomed in picture, at 10km-10 miles, is of a coastal place with the sea in the North-Western-ly direction. (Unless, there is a way to rotate the view, and I hadn't found it). One nice thing to note are the two small snowspots also, in our task photo. </br>
 
-So, before checking the coastline of all the countries in the world that have water in the NW direction of itself, let's first see if this coastline can be found anywhere on the internet first. </br>
+So, before checking the coastline of all the countries in the world that have water in the NW direction, let's first see if this coastline can be found anywhere on the internet first. </br>
 
 **Part 4: Narrowing the country of thermal activity** </br>
 By Image Reversal of the task photo, here is one [candidate](https://southamericawineguide.com/bio-bio-and-itata-fires-2023-information-and-how-to-help/) and it mentions Chile. </br>
 
-Chile is a potential country as it has the water by its NW-direction, and its a Southern Hemisphere country. By navigating along the Chilean coastline, in this case, going north, helps us find, that coastline with the 2 snow spots. And the coastline shape matches the task photo's. </br>
+Chile is a potential country as it has the water by its NW-direction, and it's a Southern Hemisphere country. By navigating along the Chilean coastline, in this case, going north, helps us find, that coastline with the 2 snow spots. And the coastline shape matches the task photo's. </br>
 
 ![image](ans_pics/pic2_match_of_coastline.png)
 
@@ -67,7 +67,7 @@ And in that manner, one potential year was 2017. </br>
 
 As the aggregated fire data in Jan of all previous years were not as intense, 2017 was a potential candidate. </br>
 
-And so, the best thing might be to look up forest fires in the chilean domain, or in the local language (like OSINT exercise 007). Taking the idea from the walkthrough, this was a rough search result to use: </br>
+And so, the best thing might be to look up forest fires in the Chilean domain, or in the local language (like OSINT exercise 007). Taking the idea from the walkthrough, this was a rough search result to use: </br>
 
 ![image](ans_pics/pic3_search_query_in_esp.png) 
 
