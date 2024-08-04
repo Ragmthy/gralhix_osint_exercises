@@ -35,6 +35,8 @@ The first approach was to look up in his collection of Getty Images. After doing
 
 Intriguingly, when looking across his photos of Cotonou, between these two in his portfolio, we see a jump in dates. The one on the left was created on 13th Jan 2012, and the one on the right was on 6th Jan 2012. </br>
 
+![image](ans_pics/DK_Getty_in_Jan_2012.png)
+
 Given that his write-up of his Voodoo pictures from above mention that he captured them on Jan 9th, and Jan 10th respectively, there's a feasible chance, the photographer was in Cotonou before going to Ouidah. </br>
 
 Therefore, the solutions to the tasks are: </br>
