@@ -16,3 +16,4 @@ Links to Individual Exercise's Writeup: </br>
 [Exercise 12](https://github.com/Ragmthy/gralhix_osint_exercises/blob/main/OSINT%20Exercise%2012/OSINT%20Exercise%20012.md) </br>
 [Exercise 14](https://github.com/Ragmthy/gralhix_osint_exercises/blob/main/OSINT%20Exercise%2014/OSINT%20Exercise%20014.md) </br>
 [Exercise 15](https://github.com/Ragmthy/gralhix_osint_exercises/blob/main/OSINT%20Exercise%2015/OSINT%20Exercise%20015.md) </br>
+[Exercise 16](https://github.com/Ragmthy/gralhix_osint_exercises/blob/main/OSINT%20Exercise%2016/OSINT%20Exercise%20016.md) </br>
