@@ -14,21 +14,19 @@ The task is to find their publication dates, in Gregorian date format.
 ### Write up and Thought-Process
 
 **Part 1: First Article** </br>
-Getting some initial clues from the first scroll across each article. 
+For the 1st article, a quick eye into their Instagram shows they're based out of Ethiopia. That is consistent with the agency's logo, as it's comprised of the Pan-African flag colours (also present in Ethiopia's flag). Plus, once translated to English, the [contact page](https://www.hatricksport.net/about/) also lists a number beginning with that country code. </br>
 
-For the 1st article, a quick eye into their Instagram shows they're based out of Ethiopia. That is consistent with the agency's logo, as it's comprising of the Pan-African flag colours (also present in Ethiopia's flag). Plus, once translated to English, the [contact page](https://www.hatricksport.net/about/) also lists a number beginning with that country code. </br>
-
-In the article, the date is not spelt out in DD/MM/YYYY format. But there's an icon that says the article was published 4 years ago. When right clicking that, and choosing the "Inspect" option, there's an actual date of publication recorded behind the scenes. </br>
+In the article, the date is not spelled out in DD/MM/YYYY format. But there's an icon that says the article was published 4 years ago. When right-clicking that, and choosing the "Inspect" option, there's an actual date of publication recorded behind the scenes. </br>
 
 ![image](ans_pics/date_published_article_1.png)
 
-As per that datetime, it was taken back in March 1st, 2020. To confirm that order of YYYY-MM-DD, a confirmation [link](https://en.wikipedia.org/wiki/2020_Tokyo_Marathon) from Wikipedia, also shared the same winner, and the winning time he completed the marathon in. 
+As per that datetime, it was taken back on March 1st, 2020. To confirm that order of YYYY-MM-DD, a confirmation [link](https://en.wikipedia.org/wiki/2020_Tokyo_Marathon) from Wikipedia, also shared the same winner and the winning time he completed the marathon in. 
 
 
 **Part 2: Second Article** </br>
 For the 2nd article, there's a contact email and phone number. As per the country code published there, this article is from Nepal. In addition, this URL mentions "2016/01/381827" - there's a chance that this article might have come from 2016 January. But it'll need to be confirmed. </br>
 
-In the similar manner as the first article, inspecting the clock icon next to the author shows the date it was published. Interestingly, it's written in the same Nepali script. </br>
+Similarly, as in the first article, inspecting the clock icon next to the author shows the date it was published. Interestingly, it's written in the same Nepali script. </br>
 
 ![image](ans_pics/date_published_article_2.png)
 
@@ -64,7 +62,7 @@ Once again, after translating the [numerals](https://sites.la.utexas.edu/persian
 ![image](ans_pics/greg_date_art3.png)
 
 
-Therefore, publication dates of the articles, in Gregorian form are: </br>
+Therefore, the publication dates of the articles, in the Gregorian form are: </br>
 1. 1st March, 2020
 2. 31st January, 2016
 3. 21st February, 2023
