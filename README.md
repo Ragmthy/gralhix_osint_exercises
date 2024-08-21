@@ -20,3 +20,4 @@ Links to Individual Exercise's Writeup: </br>
 [Exercise 17](https://github.com/Ragmthy/gralhix_osint_exercises/blob/main/OSINT%20Exercise%2017/OSINT%20Exercise%20017.md) </br>
 [Exercise 19](https://github.com/Ragmthy/gralhix_osint_exercises/blob/main/OSINT%20Exercise%2019/OSINT%20Exercise%20019.md) </br>
 [Exercise 20](https://github.com/Ragmthy/gralhix_osint_exercises/blob/main/OSINT%20Exercise%2020/OSINT%20Exercise%20020.md) </br>
+[Exercise 21](https://github.com/Ragmthy/gralhix_osint_exercises/blob/main/OSINT%20Exercise%2021/OSINT%20Exercise%20021.md) </br>
