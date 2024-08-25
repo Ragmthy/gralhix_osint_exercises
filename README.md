@@ -23,5 +23,5 @@ Links to Individual Exercise's Writeup: </br>
 [Exercise 21](https://github.com/Ragmthy/gralhix_osint_exercises/blob/main/OSINT%20Exercise%2021/OSINT%20Exercise%20021.md) </br>
 
 
-Exercises that were super tough, and had to refer to the walk through video: </br>
+Exercises that were super tough, and had to refer to the **entire** walkthrough video: </br>
 Exercise 11 (treating it as a reflective piece. Coming soon) </br>
