@@ -50,7 +50,7 @@ Therefore, another tool from the top was required. </br>
 
 ![image](ans_pics/x_2000_tools.png)
 
-For these, the first to explore was the Site Map. However, at the time of attempting the exercise, the Map for 2000 didn't render well. So another tool was required. 
+For these, the first to explore was the Site Map. However, when attempting the exercise in Aug 2024, the Map for 2000 didn't render well. So another tool was required. 
 
 The next tool explored is Summary. Here, I played with the year start and end a little more, and got a more narrowed view of the URLs in our x.com domain. 
 
@@ -62,26 +62,26 @@ From there, when exploring the URLs, there are 2 search bars we can use to find 
 
 ![image](ans_pics/2%20search%20bars.png)
 
-It just so happened, that Wayback Machine has a limit to the results it can render. It can give the latest 10,000 URLs of the x.com site it has scraped, and nothing else earlier. Unfortunately, our links from 2000 are older than that. Therefore, we'll need to narrow down the link further in the upper search bar. 
+It just so happened, that Wayback Machine is limited to the results it can render. It can give the latest 10,000 URLs of the x.com site it has scraped, and nothing else earlier. Unfortunately, our links from 2000 are older than that. Therefore, we'll need to narrow the link further in the upper search bar. 
 
-What can we try to find the FAQ URL? We have a clue from earlier. From exploring the calendar shots of 2000, we can see that consistently, the FAQ URL has been this: "https://secure.x.com/help_faq.asp" -- So let's modify our search to "x.com/help..." and let's take it from there. </br>
+How can we try to find the FAQ URL? We have a clue from earlier. From exploring the calendar shots of 2000, we can see that consistently, the FAQ URL has been this: "https://secure.x.com/help_faq.asp" -- So let's modify our search to "x.com/help..." and let's take it from there. </br>
 
 ![image](ans_pics/faq_found.png)
 
 After clicking that link, we're taken to the calendar shots of that FAQ HTM page, and we can see it was captured 3 times successfully in 2000. Trying the one in June 2000, that gives us the successfully scraped shots of the [HTML page of the FAQ page](https://web.archive.org/web/20000618112127/http://x.com:80/help_faq.htm). 
 
-**Part 3: Finding the Management URL**
+**Part 3: Finding the Management URL**</br>
 Similarly, for finding the management URL, it's worthwhile to explore the HTML capture of the website from above, and see the structure of the website. </br>
 
 The one potential area this management section could be in is in the "About X" section. </br>
 
 ![image](ans_pics/x_about_us.png)
 
-Therefore, it's worth to repeat the URL search once more with "x.com/about... " and taking it from there with the results. Also, rearranging the results with the earliest one at the top, we can see a feasible result. </br>
+Therefore, it's worth repeating the URL search again with "x.com/about... " and taking it from there with the results. Also, rearranging the results with the earliest one at the top, we can see a feasible result. </br>
 
 ![image](ans_pics/x_management_html.png)
 
 From there, and going to its calendar and choosing the July 6th 2000 capture, we arrive at the [management result](https://web.archive.org/web/20000706205553/http://x.com:80/about_management.htm) from July 2000. 
 
-**Credits**
+**Credits** </br>
 Full credits to Sofia Santos for putting together this exercise.
