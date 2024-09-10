@@ -51,9 +51,6 @@ That's one good start. And searching that up, confirmed some details about the c
 
 When investigating the [link](http://202.239.224.34/control/eventplayer?get_image_info_abspath=/var/www/server/events/10_20_227_180/002/965/A00001.jpg), the images match the vicinity and angle of the Yamoto fishing port. 
 
-A bit about the URL after the IP address: 
-<learn more about the Mobotix, and the FTPs, and the servers used here.>
-
 Therefore, the camera feed's link would be: http://202.239.224.34 - and entering this address at a time of day when the port is busy, can give a screenshot of the vicinity as shown: 
 
 ![image](ans_pics/camera_live_image_example.png)
