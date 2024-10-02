@@ -26,5 +26,6 @@ Exercise 18 </br>
 [Exercise 21](https://github.com/Ragmthy/gralhix_osint_exercises/blob/main/OSINT%20Exercise%2021/OSINT%20Exercise%20021.md) </br>
 [Exercise 22](https://github.com/Ragmthy/gralhix_osint_exercises/blob/main/OSINT%20Exercise%2022/OSINT%20Exercise%20022.md) </br>
 [Exercise 23](https://github.com/Ragmthy/gralhix_osint_exercises/blob/main/OSINT%20Exercise%2023/OSINT%20Exercise%20023.md) </br>
+[Exercise 24](https://github.com/Ragmthy/gralhix_osint_exercises/blob/main/OSINT%20Exercise%2024/OSINT%20Exercise%20024.md) </br>
 
 
