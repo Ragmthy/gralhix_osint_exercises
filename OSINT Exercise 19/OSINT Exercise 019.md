@@ -79,7 +79,7 @@ When looking into its surroundings better, it's near the main station of Gent, p
 
 Upon further look-ups, the Leie itself is not a major river, but it acts as [a tributary](https://en.wikipedia.org/wiki/Scheldt#:~:text=(Hofstade)-,Lys/Leie%20(Ghent),-Mandel%20(Wielsbeke)) for the larger river that flows across France, Belgium and Netherlands - the Scheldt.
 
-Hence, the geolcated Mosque is: [Mosque Okba Ibn Nafi](https://maps.app.goo.gl/HpYGUKFuZjqwxnXE7) at the coordinates 51.05809805541387, 3.736810988350337. 
+Hence, the geolocated Mosque is: [Mosque Okba Ibn Nafi](https://maps.app.goo.gl/HpYGUKFuZjqwxnXE7) at the coordinates 51.05809805541387, 3.736810988350337. 
 
 **Credits**
 Full credits to Sofia Santos for putting together this exercise.
