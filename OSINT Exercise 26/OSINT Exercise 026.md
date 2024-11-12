@@ -89,7 +89,7 @@ When attempting a man drop into those coordinates in Google Maps, the same build
 
 ![image](ans_pics/pic04_samsung%20building.png)
 
-And correspondingly, the KapitalBank featured in the photograph that shows the Samsung Galaxy building in that particular angle is not fully far off from it. That particular coordinate is therefore:
+And correspondingly, the KapitalBank featured in the photograph that shows the Samsung Galaxy building in that particular angle is not fully far off from it.
 
 ![image](ans_pics/pic05_bus_stop_with_samsung.png)
 
@@ -101,7 +101,7 @@ And so far, that's 3 landmarks around Tashkent narrowed down. Their consolidated
 | Chorsu Bazaar  | Tafakkur ko'chasi 57, Тashkent, Tashkent, Uzbekistan | 41° 19'36.714"N, 69°14'6.0756"E|
 | Samsung Building Bus Stop|  Afrosiab Street, Tashkent, Tashkent Region, Uzbekistan |41°17'57.696"N, 69°16'22.584"E|
 
-**Part 3: Plotting out the places in Tashkent, and how they navigated**
+**Part 3: Plotting out the places in Tashkent, and how they navigated** </br>
 With 3/4 of these addresses found, a rough plot of these places look something like this. 
 
 ![image](ans_pics/pic06_plot_of_places.png)
