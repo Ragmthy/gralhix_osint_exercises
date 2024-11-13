@@ -32,7 +32,7 @@ But to further verify, at the bottom of the write-up, there's a credit to an eve
 
 ![image](ans_pics/image_5_sykes_datatronics_bg.png)
 
-Therefore, the location of the quote is the abandoned Sykes Datatronics Building in Rochester, New York.
+Therefore, the location of the quote is the abandoned Sykes Datatronics Building in Rochester, New York. Its address is roughly 392 Orchard Street, Rochester, NY based on this [Google Map link](https://www.google.com/maps/@43.1633824,-77.6345503,3a,75y,246.04h,117.8t/data=!3m7!1e1!3m5!1szBBNqfM7rOzQRa6e4FxnRg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-27.799999999999997%26panoid%3DzBBNqfM7rOzQRa6e4FxnRg%26yaw%3D246.04!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExMC4wIKXMDSoASAFQAw%3D%3D), that was mentioned in the Rochester Subway link. Its coordinates are roughly 43.163489350707025, -77.63413612553865.  
 
 **Part 4: Looking up a quote with the word "Anarchy"** </br>
 Next, is to find a specific quote within the building that had the word "Anarchy" in it. 
