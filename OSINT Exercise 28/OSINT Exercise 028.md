@@ -83,7 +83,7 @@ Now, the next goal is to trace and measure that in Google Maps.
 It can come as a potential distance, but given the route: it might come within this range, possibly plus or minus 10m. 
 With the rough measurements, the walking route might be 180.23m.
 
-**Part 5: Bonus - What's the potential hotel Gralhix might've stayed at?**
+**Part 5: Bonus - What's the potential hotel Gralhix might've stayed at?** </br>
 For this, I had to revisit the photos featured on the social media platforms. Amongst the 4, this one, [of her medal](https://pbs.twimg.com/media/F6zCiJmW8AAUW3I?format=png&name=900x900), 
 might be a best bet in figuring out a potential hotel - as two are of the event and another is the certificate she was awarded. 
 
@@ -108,6 +108,6 @@ To see if it indeed matches, looked through a couple of photos from its publicly
 
 ![image](ans_pics/hotel_balcony_photo.jpg)
 
-It roughly matches the blurry background, and therefore, the hotel would be this ibis Style Den Haag Scheveningen.
+It roughly matches the blurry background, and therefore, the hotel would be this ibis Style Den Haag Scheveningen. </br>
 **Credits** </br>
 Full credits to Sofia Santos for putting together this exercise.
