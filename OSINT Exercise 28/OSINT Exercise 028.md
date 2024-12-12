@@ -56,7 +56,7 @@ In addition, the final photo, that showcases the event's presentation, it matche
 Specifically, Europol's HQ address is: Eisenhowerlaan 73, 2517 KK Den Haag, Netherlands
 
 **Part 4: How far was the photographer from their destination?** </br>
-In essence, we found out that Gralihix was headed to the Europol HQ in the Hague, NL. 
+In essence, we found out that Gralhix was headed to the Europol HQ in the Hague, NL. 
 
 And looking back at our task photo, we see a number 55 on the gate of the building. As a first guess, it feels like both buildings could be along the same street. 
 And seeing that they're both odd numbers, 55, and the HQ being at 73 Eisenhowerlaan, the first action was to geolocate 55 Eisenhowerlaan. 
@@ -91,9 +91,9 @@ The background is blurry, but some stand out buildings are as follows:
 
 ![image](ans_pics/medal_photo.jpg)
 
-In blue: the taller three black buildings
-In purple: the series of orange roofs 
-In green: the white building with a window-heavy facade. 
+In blue: the taller three black buildings </br>
+In purple: the series of orange roofs </br>
+In green: the white building with a window-heavy facade. </br>
 
 In addition, it's a room with a balcony. So a good chance, it might be a place with a better view. As NL is a flat country, it could be facing the sea. 
 
