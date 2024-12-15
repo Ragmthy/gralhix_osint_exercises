@@ -47,13 +47,13 @@ the Halva location mentions an address in Tashkent, the capital of Uzbekistan. A
 
 **Part 2: Gathering more details about Uzbekistan, and the landmarks shown in the pictures** </br>
 
-So a big clue we've gathered is that this individual has been based in Uzbekistan: based on the Payme advertisments and the Halva Cafe with that ferris wheel street. 
+So a big clue we've gathered is that this individual has been based in Uzbekistan: based on the Payme advertisements and the Halva Cafe with that ferris wheel street. 
 Having been to Uzbekistan before, there are two major facts about it:
 1. Uzbekistan holds the first Central Asian metro system in Tashkent. Its full map is this (from this [source](https://tashmetro.uz/en/subway-map/)): </br>
 
 ![image](ans_pics/tashkent_metro.svg). 
 
-2. This metro is [fully underground](https://www.lonelyplanet.com/articles/uzbekistan-underground-inside-tashkents-ornate-soviet-metro).
+2. This metro is [mostly underground](https://www.lonelyplanet.com/articles/uzbekistan-underground-inside-tashkents-ornate-soviet-metro). Except for the circle/yellow line. 
 
 Another source, when looking up Tashkent Metro, also showcases [a similar map](https://ilyabirman.net/tashkent-metro/map-2/). And what's interesting here, is that the map features a single liner "Payme" advertisement too. </br>
 However, using the map image above, let's filter out some potential metro stops that are near the Halva Cafe Store, and the building of the Payme advertisements. </br>
@@ -112,12 +112,12 @@ After this plot of places: the next is to figure out the sequence in which they 
 This shows that, given the sequence of the image numbers: the first location was Chorsu Bazaar (2597), followed by the Halva Cafe place (2626), the Samsung Galaxy building (2658), the video (2677), and then the bridge photo (2747). 
 Overall, it's looking like this person, might've seen these places in Tashkent first, before taking a train out. And, something else confirmed is whether the train is intercity or cross-country. 
 
-We've discovered from above that it likely cannot be the Tashkent metro system as it's purely underground.
-The video, depicts the train travelling above ground. Therefore, chances are, this train is a cross-country train. The person might've toured Tashkent first, and took the video of the train ride, and possibly a photo of a stop with a bridge.  
+We've discovered from above that it likely cannot be the Tashkent metro system as it's mostly underground.
+The video, depicts the train travelling above ground and at a faster speed than a usual everyday metro. Therefore, chances are, this train is a cross-country train. The person might've toured Tashkent first, and took the video of the train ride, and possibly a photo of a stop with a bridge.  
 
 Therefore, the next thing to figure out, is where they might've headed to from Tashkent, and from where they might've boarded it from. 
 
-**Part 4: Figuring out the train and its destination**
+**Part 4: Figuring out the train and its destination** </br>
 So, we've established that the video and the last bridge photo is of a journey on a cross-country train. It must be a train that had Tashkent in its route to go somewhere else. 
 
 Plus, when looking back at the map plot of the places the person visited, and zooming into a corner of the map: </br>
@@ -140,7 +140,7 @@ It might be it, as the brown hilly terrain, the yellow building on top of it, th
 
 Let's explore this further, and see if the traveller did go from Tashkent to Samarkand. 
 
-**Part 5: Confirming final destination**
+**Part 5: Confirming final destination** </br>
 In Google Maps, now zooming into Samarkand: some features of the last photo show some features to look out for: that includes the brown hills, and the overbridge with that floral design. 
 
 The first thing that easier to spot in Maps, are the brown terrain hills. Starting with the biggest potential area possible, there are 2 overpasses that could possibly fit the final photo. 
@@ -189,7 +189,7 @@ Seeing some sources of train timetables: this one by [Adventour](https://www.adv
 For this section, dissecting the video is the best way to navigate. Looking at the video, there's a significant place of interest at about the 7th to 10th second. 
 There's a major road, and two petrol stations on either side of it. </br>
 
-<video src="ans_pics/road%20crossing%20across%20train%20track.mp4" width="320" height="240" controls></video>
+See video in [here](ans_pics/road%20crossing%20across%20train%20track.mp4) . Rendering of videos don't work in Github Markdowns but appear to work in locally installed editors. 
 
 Geolocating that on Google Earth, it gives us these rough coordinates: 40° 5'50.77"N , 67°48'10.88"E. Placing a placemarker there, we can now see where along the train goes. 
 The end of the video shows some sort of gate enclosing more trees, so let's find that landmark on Google Earth. 
