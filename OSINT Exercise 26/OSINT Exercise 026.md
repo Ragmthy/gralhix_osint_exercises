@@ -112,8 +112,8 @@ After this plot of places: the next is to figure out the sequence in which they 
 This shows that, given the sequence of the image numbers: the first location was Chorsu Bazaar (2597), followed by the Halva Cafe place (2626), the Samsung Galaxy building (2658), the video (2677), and then the bridge photo (2747). 
 Overall, it's looking like this person, might've seen these places in Tashkent first, before taking a train out. And, something else confirmed is whether the train is intercity or cross-country. 
 
-We've discovered from above that it likely cannot be the Tashkent metro system as it's purely underground.
-The video, depicts the train travelling above ground. Therefore, chances are, this train is a cross-country train. The person might've toured Tashkent first, and took the video of the train ride, and possibly a photo of a stop with a bridge.  
+We've discovered from above that it likely cannot be the Tashkent metro system as it's mostly underground.
+The video, depicts the train travelling above ground and at a speed that feels a bit high for a regular metro. Therefore, chances are, this train is a cross-country train. The person might've toured Tashkent first, and took the video of the train ride, and possibly a photo of a stop with a bridge.  
 
 Therefore, the next thing to figure out, is where they might've headed to from Tashkent, and from where they might've boarded it from. 
 
