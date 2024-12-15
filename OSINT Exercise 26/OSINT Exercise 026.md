@@ -189,7 +189,7 @@ Seeing some sources of train timetables: this one by [Adventour](https://www.adv
 For this section, dissecting the video is the best way to navigate. Looking at the video, there's a significant place of interest at about the 7th to 10th second. 
 There's a major road, and two petrol stations on either side of it. 
 
-![image](ans_pics/road%20crossing%20across%20train%20track.mp4)
+![](ans_pics/road%20crossing%20across%20train%20track.mp4)
 
 Geolocating that on Google Earth, it gives us these rough coordinates: 40° 5'50.77"N , 67°48'10.88"E. Placing a placemarker there, we can now see where along the train goes. 
 The end of the video shows some sort of gate enclosing more trees, so let's find that landmark on Google Earth. 
