@@ -117,7 +117,7 @@ The video, depicts the train travelling above ground and at a speed that feels a
 
 Therefore, the next thing to figure out, is where they might've headed to from Tashkent, and from where they might've boarded it from. 
 
-**Part 4: Figuring out the train and its destination**
+**Part 4: Figuring out the train and its destination** </br>
 So, we've established that the video and the last bridge photo is of a journey on a cross-country train. It must be a train that had Tashkent in its route to go somewhere else. 
 
 Plus, when looking back at the map plot of the places the person visited, and zooming into a corner of the map: </br>
@@ -140,7 +140,7 @@ It might be it, as the brown hilly terrain, the yellow building on top of it, th
 
 Let's explore this further, and see if the traveller did go from Tashkent to Samarkand. 
 
-**Part 5: Confirming final destination**
+**Part 5: Confirming final destination** </br>
 In Google Maps, now zooming into Samarkand: some features of the last photo show some features to look out for: that includes the brown hills, and the overbridge with that floral design. 
 
 The first thing that easier to spot in Maps, are the brown terrain hills. Starting with the biggest potential area possible, there are 2 overpasses that could possibly fit the final photo. 
@@ -187,9 +187,9 @@ Seeing some sources of train timetables: this one by [Adventour](https://www.adv
  
 3. Estimate the speed at which the train was travelling when the footage was recorded. 
 For this section, dissecting the video is the best way to navigate. Looking at the video, there's a significant place of interest at about the 7th to 10th second. 
-There's a major road, and two petrol stations on either side of it. 
+There's a major road, and two petrol stations on either side of it. </br>
 
-![](ans_pics/road%20crossing%20across%20train%20track.mp4)
+<video src="ans_pics/road%20crossing%20across%20train%20track.mp4" width="320" height="240" controls></video>
 
 Geolocating that on Google Earth, it gives us these rough coordinates: 40° 5'50.77"N , 67°48'10.88"E. Placing a placemarker there, we can now see where along the train goes. 
 The end of the video shows some sort of gate enclosing more trees, so let's find that landmark on Google Earth. 
