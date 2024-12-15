@@ -53,7 +53,7 @@ Having been to Uzbekistan before, there are two major facts about it:
 
 ![image](ans_pics/tashkent_metro.svg). 
 
-2. This metro is [fully underground](https://www.lonelyplanet.com/articles/uzbekistan-underground-inside-tashkents-ornate-soviet-metro), except for the circle line. 
+2. This metro is [fully underground](https://www.lonelyplanet.com/articles/uzbekistan-underground-inside-tashkents-ornate-soviet-metro).
 
 Another source, when looking up Tashkent Metro, also showcases [a similar map](https://ilyabirman.net/tashkent-metro/map-2/). And what's interesting here, is that the map features a single liner "Payme" advertisement too. </br>
 However, using the map image above, let's filter out some potential metro stops that are near the Halva Cafe Store, and the building of the Payme advertisements. </br>
@@ -89,7 +89,7 @@ When attempting a man drop into those coordinates in Google Maps, the same build
 
 ![image](ans_pics/pic04_samsung%20building.png)
 
-And correspondingly, the KapitalBank featured in the photograph that shows the Samsung Galaxy building in that particular angle is not fully far off from it.
+And correspondingly, the KapitalBank featured in the photograph that shows the Samsung Galaxy building in that particular angle is not fully far off from it. That particular coordinate is therefore:
 
 ![image](ans_pics/pic05_bus_stop_with_samsung.png)
 
@@ -101,7 +101,7 @@ And so far, that's 3 landmarks around Tashkent narrowed down. Their consolidated
 | Chorsu Bazaar  | Tafakkur ko'chasi 57, Тashkent, Tashkent, Uzbekistan | 41° 19'36.714"N, 69°14'6.0756"E|
 | Samsung Building Bus Stop|  Afrosiab Street, Tashkent, Tashkent Region, Uzbekistan |41°17'57.696"N, 69°16'22.584"E|
 
-**Part 3: Plotting out the places in Tashkent, and how they navigated** </br>
+**Part 3: Plotting out the places in Tashkent, and how they navigated**
 With 3/4 of these addresses found, a rough plot of these places look something like this. 
 
 ![image](ans_pics/pic06_plot_of_places.png)
@@ -112,12 +112,12 @@ After this plot of places: the next is to figure out the sequence in which they 
 This shows that, given the sequence of the image numbers: the first location was Chorsu Bazaar (2597), followed by the Halva Cafe place (2626), the Samsung Galaxy building (2658), the video (2677), and then the bridge photo (2747). 
 Overall, it's looking like this person, might've seen these places in Tashkent first, before taking a train out. And, something else confirmed is whether the train is intercity or cross-country. 
 
-We've discovered from above that it likely cannot be the Tashkent metro system as it's mostly underground.
-The video, depicts the train travelling above ground and at a speed that feels a bit high for a regular metro. Therefore, chances are, this train is a cross-country train. The person might've toured Tashkent first, and took the video of the train ride, and possibly a photo of a stop with a bridge.  
+We've discovered from above that it likely cannot be the Tashkent metro system as it's purely underground.
+The video, depicts the train travelling above ground. Therefore, chances are, this train is a cross-country train. The person might've toured Tashkent first, and took the video of the train ride, and possibly a photo of a stop with a bridge.  
 
 Therefore, the next thing to figure out, is where they might've headed to from Tashkent, and from where they might've boarded it from. 
 
-**Part 4: Figuring out the train and its destination** </br>
+**Part 4: Figuring out the train and its destination**
 So, we've established that the video and the last bridge photo is of a journey on a cross-country train. It must be a train that had Tashkent in its route to go somewhere else. 
 
 Plus, when looking back at the map plot of the places the person visited, and zooming into a corner of the map: </br>
@@ -140,7 +140,7 @@ It might be it, as the brown hilly terrain, the yellow building on top of it, th
 
 Let's explore this further, and see if the traveller did go from Tashkent to Samarkand. 
 
-**Part 5: Confirming final destination** </br>
+**Part 5: Confirming final destination**
 In Google Maps, now zooming into Samarkand: some features of the last photo show some features to look out for: that includes the brown hills, and the overbridge with that floral design. 
 
 The first thing that easier to spot in Maps, are the brown terrain hills. Starting with the biggest potential area possible, there are 2 overpasses that could possibly fit the final photo. 
@@ -190,7 +190,6 @@ For this section, dissecting the video is the best way to navigate. Looking at t
 There's a major road, and two petrol stations on either side of it. </br>
 
 <video src="ans_pics/road%20crossing%20across%20train%20track.mp4" width="320" height="240" controls></video>
-*In case video isn't rendering, it's inside ans_pics folder as the .mp4 file*
 
 Geolocating that on Google Earth, it gives us these rough coordinates: 40° 5'50.77"N , 67°48'10.88"E. Placing a placemarker there, we can now see where along the train goes. 
 The end of the video shows some sort of gate enclosing more trees, so let's find that landmark on Google Earth. 
@@ -204,7 +203,7 @@ And so, we now know what was covered between roughly the 10th second and the las
 This comes to roughly 841.7m in 21 seconds. In km/h, that's around 144km/h, which is within the speed range the Afrosiyab train could travel in. 
 Rough speed is therefore: 144km/h
 
-4. Calculate approximately how far the person travelled overall. 
+1. Calculate approximately how far the person travelled overall. 
 Accounting for his tour in Tashkent, the train journey, and Samarkand station to the Siyab Bridge (the traveller doesn't stop at the bridge, he goes past it).
 
 Chorsu to Halva Art Cafe: 3.5km 
