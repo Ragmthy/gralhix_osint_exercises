@@ -53,7 +53,7 @@ Having been to Uzbekistan before, there are two major facts about it:
 
 ![image](ans_pics/tashkent_metro.svg). 
 
-2. This metro is [fully underground](https://www.lonelyplanet.com/articles/uzbekistan-underground-inside-tashkents-ornate-soviet-metro).
+2. This metro is [fully underground](https://www.lonelyplanet.com/articles/uzbekistan-underground-inside-tashkents-ornate-soviet-metro), except for the circle line. 
 
 Another source, when looking up Tashkent Metro, also showcases [a similar map](https://ilyabirman.net/tashkent-metro/map-2/). And what's interesting here, is that the map features a single liner "Payme" advertisement too. </br>
 However, using the map image above, let's filter out some potential metro stops that are near the Halva Cafe Store, and the building of the Payme advertisements. </br>
