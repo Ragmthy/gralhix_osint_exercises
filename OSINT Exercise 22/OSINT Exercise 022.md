@@ -23,7 +23,7 @@ Only provide the bottom half of the licence plate containing 2 sets of numeric v
 **Part 1: Initial Thoughts & Observations** </br>
 In both pictures, there are hints in the top left and right corners. The top left mentions "Yamoto Fishing Port" and the right the datetime with the JST timezone. It's helped narrow that this is in Japan. </br>
 
-Another feature to not is that on the building in the bottom right hand corner, is a mascot drawing. So that can be one confirmation that the buildings are correct. </br>
+Another feature to note is that on the building in the bottom right hand corner, is a mascot drawing. So that can be one confirmation that the buildings are correct. </br>
 
 **Part 2: Link and Geolocating the Camera** </br>
 With a Google Map search of Yamoto Fishing port, we're brought to [this address](https://maps.app.goo.gl/H6ntLDwr6UXfsxhe7). When doing a man-drop into the address, and getting a 360° view, it can be confirmed the same. 
