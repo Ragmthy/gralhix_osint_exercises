@@ -126,7 +126,7 @@ With a high probability, we'll assume the 2024 video is the most recent media of
 a report that [she's became a mother in 2020](https://www.clickorlando.com/theme-parks/2020/12/04/disneys-animal-kingdom-welcomes-pair-of-masai-giraffe-calves-to-savanna/). While this was sometime back, 
 the article is focused heavily on Willow and her offspring. And not only that, the article's second and fifth photo features Willow, once again with the heart patch visible. 
 
-![image](ans_pics/pic14_giraffe_herd_DAK.jpg)
+![image](ans_pics/pic15_willow_and_jr.png)
 
 Therefore, the 2024 video shows Willow in her habitat (but only a small segment of it), and the photo from when she became a Mum, shows a more extensive version of her habitat. 
 
