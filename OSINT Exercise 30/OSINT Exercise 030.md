@@ -115,7 +115,7 @@ After making the polygon, and modifying its properties a bit, there's a way to m
 
 ![image](ans_pics/11_tent_placement.jpg)
 
-**Part 6: Verifying the tent**
+**Part 6: Verifying the tent** </br>
 So for now, on Google Earth, a polygon building has been made for the tent. And in order to verify it, there is a need to confirm it against the aerial photo from the UN. 
 Going back to this [source from Part 4](https://media.un.org/photo/en/asset/oun7/oun7665707). 
 
